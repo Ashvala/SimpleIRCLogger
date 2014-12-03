@@ -8,7 +8,7 @@ Instructions
 ===============
 
 
-''' python client.py '''
+``` python client.py ```
 enter your nick, the irc host, port and a channel. 
 
 
